@@ -9,9 +9,8 @@ Exploring AI, Machine Learning, Deep Learning, and Full-Stack Development
 ## 🚀 Skills & Technologies
 
 - **Programming Languages:** Python, Java, C  
-- **Web Development:** HTML, CSS, JavaScript, Flask  
-- **Database Management:** SQL, MySQL  
-- **Tools & Platforms:** Git, GitHub, VS Code, FlowCV, Linktree  
+- **Web Development:** HTML, CSS, JavaScript
+- **Database Management:** SQL 
 - **Other Skills:** OOPs, DBMS, Data Structures  
 - **ML & DL Frameworks:** TensorFlow, scikit-learn, OpenCV  
 
