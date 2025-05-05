@@ -28,7 +28,6 @@
   <a href="https://opencv.org/" target="_blank"><img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-2.png" alt="opencv" width="40" height="40"/></a>
 </p>
 
-
 ---
 
 ## 📂 Academic Projects
@@ -44,12 +43,24 @@ ML-based system to classify and detect fake news from headlines and content.
 
 ---
 
+## 📧 Contact Me
+- **Email:** [veronicavimal25@gmail.com](mailto:veronicavimal25@gmail.com)
+- **Phone:** +91 8838217706
+
+---
+
+## 💼 Internship Experience
+
+### ✅ **Vibathi Lab**  
+- **Role:** Intern  
+- **Technologies Worked On:** Oracle technologies (SQL, PL/SQL, APEX)  
+
+---
+
 ## 🔗 Important Links
 
-- 📄 [FlowCV Resume](your-flowcv-link-here)
-- 🌐 [Linktree Portfolio](your-linktree-link-here)
-- 💼 [LinkedIn](https://www.linkedin.com/in/j-veronica/)
-- 🖥️ [GitHub](https://github.com/j-veronica)
+- 💼 [LinkedIn](https://www.linkedin.com/in/j-veronica-philo-vimal-b62059254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 🖥️ [GitHub](https://github.com/VeronicaPhiloVimal)
 
 ---
 
